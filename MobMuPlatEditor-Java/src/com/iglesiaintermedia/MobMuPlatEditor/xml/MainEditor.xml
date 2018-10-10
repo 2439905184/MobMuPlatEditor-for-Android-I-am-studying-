@@ -1,1 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--横向菜单-->
+<LinearLayout
+              orgain="horzin"
+        <button
+                android:id="@+id/menu1"
+                android:onClick=""
+                android:text="文件"/>
+        <button
+                android:id="@+id/menu2"/>
+              />
 
+<LinearLayout
+              /><
+
+>
